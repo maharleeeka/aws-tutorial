@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "awstutorial16b06fcf": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
